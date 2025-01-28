@@ -1,5 +1,54 @@
 # @copilotkit/runtime
 
+## 1.5.15-next.0
+
+### Patch Changes
+
+- @copilotkit/shared@1.5.15-next.0
+
+## 1.5.14
+
+### Patch Changes
+
+- Updated dependencies [0061f65]
+  - @copilotkit/shared@1.5.14
+
+## 1.5.14-next.0
+
+### Patch Changes
+
+- Updated dependencies [0061f65]
+  - @copilotkit/shared@1.5.14-next.0
+
+## 1.5.13
+
+### Patch Changes
+
+- 8271438: silence langgraph platform error
+  - @copilotkit/shared@1.5.13
+
+## 1.5.13-next.0
+
+### Patch Changes
+
+- 8271438: silence langgraph platform error
+  - @copilotkit/shared@1.5.13-next.0
+
+## 1.5.12
+
+### Patch Changes
+
+- 768b3a5: - chore: add documentation for empty llm adapter
+  - fix: throw error when empty adapter is misused
+- a2129f4: - fix(streaming): end streaming on error to enable continuity of chat after failed tool call
+- 926499b: - Load the previous state of an agent if `threadId` is provided to CopilotKit, including all messages
+- 59de133: - fix: rename ExperimentalEmptyAdapter to EmptyAdapter
+- 6136a57: - fix(errors): add custom error classes to better describe library errors
+  - fix(errors): use new errors in error handling
+  - chore: add documentation and links to respective errors
+- Updated dependencies [6136a57]
+  - @copilotkit/shared@1.5.12
+
 ## 1.5.12-next.7
 
 ### Patch Changes

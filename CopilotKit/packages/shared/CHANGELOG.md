@@ -1,5 +1,31 @@
 # @copilotkit/shared
 
+## 1.5.15-next.0
+
+## 1.5.14
+
+### Patch Changes
+
+- 0061f65: - feat: allows dev mode for cloud onboarding flow
+
+## 1.5.14-next.0
+
+### Patch Changes
+
+- 0061f65: - feat: allows dev mode for cloud onboarding flow
+
+## 1.5.13
+
+## 1.5.13-next.0
+
+## 1.5.12
+
+### Patch Changes
+
+- 6136a57: - fix(errors): add custom error classes to better describe library errors
+  - fix(errors): use new errors in error handling
+  - chore: add documentation and links to respective errors
+
 ## 1.5.12-next.7
 
 ## 1.5.12-next.6

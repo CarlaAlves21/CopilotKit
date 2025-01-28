@@ -1,5 +1,59 @@
 # ui
 
+## 1.5.15-next.0
+
+### Patch Changes
+
+- @copilotkit/runtime-client-gql@1.5.15-next.0
+- @copilotkit/shared@1.5.15-next.0
+
+## 1.5.14
+
+### Patch Changes
+
+- 0061f65: - feat: allows dev mode for cloud onboarding flow
+- Updated dependencies [0061f65]
+  - @copilotkit/shared@1.5.14
+  - @copilotkit/runtime-client-gql@1.5.14
+
+## 1.5.14-next.0
+
+### Patch Changes
+
+- 0061f65: - feat: allows dev mode for cloud onboarding flow
+- Updated dependencies [0061f65]
+  - @copilotkit/shared@1.5.14-next.0
+  - @copilotkit/runtime-client-gql@1.5.14-next.0
+
+## 1.5.13
+
+### Patch Changes
+
+- @copilotkit/runtime-client-gql@1.5.13
+- @copilotkit/shared@1.5.13
+
+## 1.5.13-next.0
+
+### Patch Changes
+
+- @copilotkit/runtime-client-gql@1.5.13-next.0
+- @copilotkit/shared@1.5.13-next.0
+
+## 1.5.12
+
+### Patch Changes
+
+- 926499b: - Load the previous state of an agent if `threadId` is provided to CopilotKit, including all messages
+- 6136a57: - fix(errors): add custom error classes to better describe library errors
+  - fix(errors): use new errors in error handling
+  - chore: add documentation and links to respective errors
+- cb43c05: - fix: set up managed LLM retries and report error to render method
+- Updated dependencies [fb87bcf]
+- Updated dependencies [926499b]
+- Updated dependencies [6136a57]
+  - @copilotkit/runtime-client-gql@1.5.12
+  - @copilotkit/shared@1.5.12
+
 ## 1.5.12-next.7
 
 ### Patch Changes
